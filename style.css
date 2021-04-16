@@ -1,0 +1,11 @@
+.dragable {
+  position: absolute;
+  z-index: 9;
+  cursor: pointer;
+}
+
+
+
+body {
+    background-color: rgb(253, 84, 135);
+}
